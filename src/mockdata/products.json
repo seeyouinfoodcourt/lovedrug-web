@@ -1,0 +1,44 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "title": "Deck 1",
+      "slug": "deck-1",
+      "price": 35,
+      "backgroundColor": { "primary": "#F59A1D", "secondary": "#BF5D13" },
+      "image": "3logoblood.png"
+    },
+    {
+      "id": 2,
+      "title": "Deck 2",
+      "slug": "deck-2",
+      "price": 35,
+      "backgroundColor": { "primary": "#B43F3F", "secondary": "#555555" },
+      "image": "3logoblood.png"
+    },
+    {
+      "id": 3,
+      "title": "Deck 3",
+      "slug": "deck-3",
+      "price": 35,
+      "backgroundColor": { "primary": "#173B45", "secondary": "#4c7783  " },
+      "image": "3logoblood.png"
+    },
+    {
+      "id": 4,
+      "title": "Deck 4",
+      "slug": "deck-4",
+      "price": 35,
+      "backgroundColor": { "primary": "#E3A5C7", "secondary": "#b97c9e" },
+      "image": "3logoblood.png"
+    },
+    {
+      "id": 5,
+      "title": "Deck 5",
+      "slug": "deck-5",
+      "price": 35,
+      "backgroundColor": { "primary": "#b9f756", "secondary": "#85bb30" },
+      "image": "3logoblood.png"
+    }
+  ]
+}
