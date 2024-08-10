@@ -6,7 +6,7 @@ import { SpeedInsights } from '@vercel/speed-insights/next';
 const inter = Inter({ subsets: ['latin'] });
 
 export const metadata: Metadata = {
-  title: 'Lovedrug Fingerboards',
+  title: 'Lovedrug',
   description: 'Custom handmade fingerboards',
 };
 
