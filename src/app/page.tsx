@@ -1,12 +1,14 @@
-import { Button } from '@/components/ui/button';
 import Image from 'next/image';
 
 export default function Home() {
   return (
-    <>
-      {/* <div className="bg-gray-400 w-full h-screen flex items-center justify-center">
-        VIDEO
-      </div> */}
-    </>
+    <div className="w-full h-screen flex flex-col justify-center items-center">
+      <Image
+        src={'/img/lovedrug-logo-white.png'}
+        width={500}
+        height={80}
+        alt="Lovedrug Logo"
+      />
+    </div>
   );
 }
