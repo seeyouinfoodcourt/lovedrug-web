@@ -59,7 +59,7 @@ export default function DeckPage({ params }: { params: { slug: string } }) {
         <div className="md:fixed md:top-0 md:right-0 w-1/2 h-screen flex justify-center items-center flex-col">
           <h1 className="font-black text-5xl uppercase">{product?.title}</h1>
           <Price value={30} currency="EUR" className="font-bold text-3xl" />
-          <div className="mt-4 flex gap-2 flex-col justify-center items-center w-3/4">
+          <div className="mt-4 flex gap-2 flex-col justify-center items-center w-1/2">
             <div className="flex gap-2">
               <Select>
                 <SelectTrigger className="flex-2">

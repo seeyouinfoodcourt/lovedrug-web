@@ -1,0 +1,27 @@
+{
+  "name": "Lovedrug",
+  "short_name": "Lovedrug",
+  "theme_color": "#F59A1D",
+  "background_color": "#ffffff",
+  "display": "browser",
+  "orientation": "any",
+  "scope": "/",
+  "start_url": "/",
+  "icons": [
+    {
+      "src": "/icons/circlelogo2014-192.png",
+      "type": "image/png",
+      "sizes": "192x192"
+    },
+    {
+      "src": "/icons/circlelogo2014-256.png",
+      "type": "image/png",
+      "sizes": "256x256"
+    },
+    {
+      "src": "/icons/circlelogo2014-512.png",
+      "type": "image/png",
+      "sizes": "512x512"
+    }
+  ]
+}
